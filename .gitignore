@@ -1,0 +1,23 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/vendor/
+
+# rspec failure tracking
+.rspec_status
+
+# rvm
+.ruby-version
+
+# at_coder_friends
+.at_coder_friends.yml
+
+# regression environment
+/regression
+
+.DS_Store
